@@ -3,8 +3,7 @@
 
 **Usage**
 ----------------------
-1. Download Google Dork CLI module [here](https://github.com/dword32bit/google-dork/releases/download/v1.0.0/google_dork-1.0.tar.gz)
-2. Install Google Dork using `pip install google_dork-*.tar.gz`
+1. Install requirements `pip install -r requirements.txt`
 3. run `python3 guidork.py`
 ----------------------
 # guidork
